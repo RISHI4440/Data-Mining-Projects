@@ -1,4 +1,4 @@
-**Data Mining Vacant and Abandoned Buildings in Chicago**
+# Data Mining Vacant and Abandoned Buildings in Chicago
 
 **Introduction:**
 In any urban center across the globe, Vacant and Abandoned buildings present significant challenges, such as contributing to urban decay posing safety risks, and reducing property values. In response to these challenges, my proposed data mining project aims to unravel the complex narrative of vacant and abandoned buildings in Chicago, focusing on their impact on Housing Quality and finding Vacant properties owned by Individuals and Corporations. I am planning to do it by leveraging a comprehensive dataset provided by Chicago’s Administrative Hearings and Finance Dept.
